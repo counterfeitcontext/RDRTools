@@ -6,3 +6,5 @@ These are NOT created by me, credit is given, this is just a repo to find them.
 
 2. RDO Lobby Manager - [Credit](https://www.nexusmods.com/reddeadredemption2/mods/772)
 
+3. Cheat Engine 77 - [Credit](https://www.cheatengine.org/)
+
